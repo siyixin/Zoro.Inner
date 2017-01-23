@@ -6,11 +6,12 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3071E665-0F20-479C-891D-11221A8A3A99}"
 	ProjectSection(SolutionItems) = preProject
 		ReadMe.txt = ReadMe.txt
+		Result.txt = Result.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewBridge.Zoro.FileSearch", "NewBridge.Zoro.FileSearch\NewBridge.Zoro.FileSearch.csproj", "{50848E35-6E02-40C2-BDCF-B71881453325}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewBridge.Zoro.Exchange", "NewBridge.Zoro.Exchange\NewBridge.Zoro.Exchange.csproj", "{C376FC1E-CDA5-462F-AC36-D35E92588877}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewBridge.Zoro.Exchange.Inner", "NewBridge.Zoro.Exchange\NewBridge.Zoro.Exchange.Inner.csproj", "{C376FC1E-CDA5-462F-AC36-D35E92588877}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
